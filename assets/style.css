@@ -129,6 +129,7 @@
   /* main */
   
   #main-container {
+    background: url(https://www.toptal.com/designers/subtlepatterns/patterns/concrete_seamless.png);
     padding-top: 130px;
     min-height: calc(100vh - 70px);
   }
