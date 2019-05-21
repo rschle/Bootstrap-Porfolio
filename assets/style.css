@@ -271,6 +271,13 @@ input[type=submit] {
 
 footer{
 position: relative;
-top: 900px
+top: 200px;
 
+}
+
+
+@media only screen and (max-width:768px) {
+  [class*="col-md"]{
+    width: 100%;
+  }
 }
